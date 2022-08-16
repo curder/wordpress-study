@@ -39,6 +39,7 @@ function sidebarGuide() {
       collapsed: false,
       items: [
         {text: "项目文件", link: "/guide/basic/project-files"},
+        {text: "数据库表结构", link: "/guide/basic/project-tables"},
       ]
     },
   ];
