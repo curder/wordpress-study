@@ -7,7 +7,7 @@ export default defineConfig({
   description: "WordPress 学习记录",
   lastUpdated: true,
   themeConfig: {
-    logo: "https://s.w.org/images/wmark.png",
+    logo: "https://cn.wordpress.org/wp-content/themes/pub/wporg/images/wp-logo-blue.png",
     siteTitle: "WordPress 学习",
     outlineTitle: "章节导航",
     lastUpdatedText: "最后更新时间",
